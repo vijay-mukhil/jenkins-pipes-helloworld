@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo jayaram $1!
+echo hello $1!
